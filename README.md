@@ -1,2 +1,2 @@
 # cv
-# Written in pure HTML.
+# Basic CV using HTML and CSS.
